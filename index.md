@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+![image](https://github.com/user-attachments/assets/f47b2706-7fea-4cea-9aa6-0e079e02c383)
 
-Maybe say a some things about yourself.
+Blog's description test
 
-Or maybe what you plan to blog about.
+
